@@ -14,10 +14,13 @@ Sou um entusiasta de tecnologia em transição para **Engenharia de IA/ML**, com
 ---
 
 ## 🛠️ Tech Stack & Ferramentas
-- **Linguagens:** Python (Pandas, Scikit-learn, XGBoost), SQL (PostgreSQL).
-- **IA & Dados:** RAG (Retrieval-Augmented Generation), LLMs, Análise de Vibração, Séries Temporais.
-- **MLOps & Cloud:** Docker, MLflow, MinIO/S3, Ingestão em Parquet.
-- **Segurança:** Fundamentos de Cibersegurança aplicados a sistemas de dados.
+## 🛠️ Tech Stack & Ferramentas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-%23d5d5d5.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -36,9 +39,15 @@ Classificação de falhas em ativos industriais através de análise de vibraç�
 ---
 
 ## 📊 Estatísticas
-![Estatísticas do GitHub de Luis Tatin](https://github-readme-stats.vercel.app/api?username=LuisTatin&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTatin&layout=compact&theme=radical)
+---
 
+## 📊 Estatísticas
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisTatin&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTatin&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
 ---
 
 ## 📫 Vamos conversar?
