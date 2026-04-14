@@ -38,12 +38,22 @@ Classificação de falhas em ativos industriais através de análise de vibraç�
 ---
 
 ## 📊 Estatísticas
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisTatin&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTatin&layout=compact&theme=dark&hide_border=true" />
+<table>
+<tr>
+<td>
+
+<img src="https://streak-stats.demolab.com?user=luistatin&theme=tokyonight&hide_border=true" width="420"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luistatin&theme=tokyo-night" width="380"/>
+
+</td>
+</tr>
+</table
 </p>
 
----
 ---
 
 ## 📫 Vamos conversar?
